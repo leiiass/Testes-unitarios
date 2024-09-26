@@ -1,0 +1,14 @@
+C:\Projetos\testes-unitarios\JornadaMilhas\JornadaMilhas\bin\Debug\net8.0\JornadaMilhas.deps.json
+C:\Projetos\testes-unitarios\JornadaMilhas\JornadaMilhas\bin\Debug\net8.0\JornadaMilhas.runtimeconfig.json
+C:\Projetos\testes-unitarios\JornadaMilhas\JornadaMilhas\obj\Debug\net8.0\JornadaMilhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\testes-unitarios\JornadaMilhas\JornadaMilhas\obj\Debug\net8.0\JornadaMilhas.AssemblyInfoInputs.cache
+C:\Projetos\testes-unitarios\JornadaMilhas\JornadaMilhas\obj\Debug\net8.0\JornadaMilhas.AssemblyInfo.cs
+C:\Projetos\testes-unitarios\JornadaMilhas\JornadaMilhas\obj\Debug\net8.0\JornadaMilhas.genruntimeconfig.cache
+C:\Projetos\testes-unitarios\JornadaMilhas\JornadaMilhas\bin\Debug\net8.0\JornadaMilhas.exe
+C:\Projetos\testes-unitarios\JornadaMilhas\JornadaMilhas\bin\Debug\net8.0\JornadaMilhas.dll
+C:\Projetos\testes-unitarios\JornadaMilhas\JornadaMilhas\bin\Debug\net8.0\JornadaMilhas.pdb
+C:\Projetos\testes-unitarios\JornadaMilhas\JornadaMilhas\obj\Debug\net8.0\JornadaMilhas.csproj.CoreCompileInputs.cache
+C:\Projetos\testes-unitarios\JornadaMilhas\JornadaMilhas\obj\Debug\net8.0\JornadaMilhas.dll
+C:\Projetos\testes-unitarios\JornadaMilhas\JornadaMilhas\obj\Debug\net8.0\refint\JornadaMilhas.dll
+C:\Projetos\testes-unitarios\JornadaMilhas\JornadaMilhas\obj\Debug\net8.0\JornadaMilhas.pdb
+C:\Projetos\testes-unitarios\JornadaMilhas\JornadaMilhas\obj\Debug\net8.0\ref\JornadaMilhas.dll
